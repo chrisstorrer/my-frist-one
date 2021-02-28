@@ -3,4 +3,4 @@
 ###  this is heading type 3, smallest type
 hi my name is chris and i use two spaces
 **this text is emboldened**
-*this text is italicized*
+*this text is italicized*!
